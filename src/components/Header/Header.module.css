@@ -1,0 +1,10 @@
+.main-header {
+	margin-bottom: 10px;
+	padding: 20px;
+	background-color: gray;
+}
+
+.main-header__image {
+	width: 50px;
+	height: 50px;
+}

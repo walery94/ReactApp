@@ -1,0 +1,25 @@
+.main-nav {
+	margin-right: 10px;
+	background-color: gray;
+}
+
+.main-nav__list {
+	margin: 0;
+	padding: 0;
+	padding: 20px;
+}
+
+.main-nav__item {
+	padding-bottom: 5px;
+	font-weight: bold;
+	list-style: none;
+}
+
+.main-nav__link {
+	text-decoration: none;
+	color: black;
+}
+
+.main-nav__active {
+	color: darkblue;
+}

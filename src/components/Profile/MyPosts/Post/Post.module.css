@@ -1,0 +1,15 @@
+.post {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.post img {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+}
+
+.post span {
+	padding-left: 10px;
+}
